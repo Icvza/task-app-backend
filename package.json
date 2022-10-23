@@ -4,7 +4,6 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "deploy": "npm run build && npm run start",
     "start": "node server.js"
   },
   "keywords": [],
